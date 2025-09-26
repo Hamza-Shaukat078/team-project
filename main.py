@@ -2,4 +2,4 @@ print('Hello, team!')
 
 print("new feature added")
 
-print("conflict line")
+print("conflict line, A version")
