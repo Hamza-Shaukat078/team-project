@@ -1,3 +1,6 @@
 print('Hello, team!')
 
-print("new feature added")
+print('hello team this is the new  additions to raise the  merge conflict on Hamza Repo')
+
+print('huehuehue')
+
